@@ -1,4 +1,4 @@
-![Logo](/profile/logo.png)
+![Logo](/profile/banner.png)
 
 [Konfig](https://konfigthis.com/) generates and publishes SDKs in popular programming languages from the OpenAPI Specification and Postman Collection Format standards.
 
